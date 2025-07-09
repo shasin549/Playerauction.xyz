@@ -492,4 +492,3 @@ document.addEventListener('DOMContentLoaded', () => {
         addParticipant('Card Collector');
     }, 1000);
 });
-
